@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Politeknik Brunei</h1>
+    <h2>DITN10</h2>
+    <p>Sem 4 Network Programming</p>
+    <a href="./about.html">Go Home</a>
+</body>
+</html>
